@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Soy Robert Oviedo</h1>
-<h4 align="center">Soy desarrollador Full Stack, amante del mundo IT y apasionado por seguir aprendiendo del maravilloso mundo de la programación.</h4>
+<h1>Hola 👋, Soy Robert Oviedo</h1>
+<p>Soy desarrollador Full Stack, amante del mundo IT y apasionado por seguir aprendiendo del maravilloso mundo de la programación.</p>
 
-- 📫 Como contactarme 
+<h3>📫 Como contactarme</h3>  
 - **Email: robertoviedo35@gmail.com**
 - **Linkedin:** <a href="https://www.linkedin.com/in/robert-oviedo-8b529a240/">Perfil de Linkedin</a>
 
