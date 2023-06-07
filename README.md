@@ -10,7 +10,7 @@
 <p>Mi objetivo es encontrar mi primer empleo en el mundo IT, luego de finalizar mis estudios en el Bootcamp de HENRY y aprender todo lo necesario en el lenguaje de Javascript.</p>
 
 <h2>¿Qué tecnologías uso?</h2>
-- <p>CSS   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </p> 
+- <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS</p> 
 
 
 
