@@ -25,5 +25,8 @@
 
 
 <h2>📫 Como contactarme</h2> 
-- Email: robertoviedo35@gmail.com
-- Linkedin: <a href="https://www.linkedin.com/in/robert-oviedo-8b529a240/">Perfil de Linkedin</a>
+<ul>
+  <li>Email: robertoviedo35@gmail.com</li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/robert-oviedo-8b529a240/">Perfil de Linkedin</a></li>
+</ul> 
+ 
